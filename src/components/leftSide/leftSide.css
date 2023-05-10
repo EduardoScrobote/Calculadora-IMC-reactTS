@@ -1,0 +1,87 @@
+
+.mainLeft {
+    display: flex;
+    width: 50%;
+    height: 55rem;
+    flex-direction: column;
+    margin-left: 10rem;
+}
+.header {
+    align-items: center;
+    display: flex;
+    flex-direction: initial;
+    font-size: 42px;
+    margin-top: 3rem; 
+    margin-left: 10rem;
+}
+.info {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+    width: 55%;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 10rem;
+}
+
+.inpt {
+    width: 35%;
+    height: 25px;
+    display: flex;
+    margin-bottom: 3rem;
+    border: none;
+    border-bottom: solid 1px rgba(68, 68, 68, 0.921);
+    margin-left: 10rem;
+}
+
+.inpt::selection {
+    border: none;
+}
+
+.result, p {
+    margin-top: 3rem;
+    border-color: aqua;
+    width: 35%;
+    display: flex;
+    align-items: center;
+    margin-left: 10rem;
+    font-size: 24px;
+}
+
+
+
+.btn1{
+    width: 35%;
+    height: 50px;
+    background-color: rgba(27, 72, 233, 0.922);
+    transition: 0.4s;
+    border: none;
+    margin-left: 10rem;
+    border-radius: 15px;
+}
+
+.btn1:hover{
+    background-color: rgba(21, 69, 242, 0.971);;
+    width: 37%;
+    height: 60px;
+    cursor: pointer;
+}
+
+.imgImc {
+    margin-top: 3rem;
+    margin-left: 10rem;
+    width: 18%;
+}
+
+html{
+    opacity: 1;
+    margin: 0;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather';
+}

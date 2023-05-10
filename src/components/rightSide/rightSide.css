@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    width: 64.8%;
+    height: 100%;
+    position: fixed;
+    right: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.magreza {
+    display: flex;
+    position: fixed;
+    top: 10%;
+}
+
+.magrezaBlock {
+    background-color: #4a4a4a78;
+    width: 10rem;
+    height: 10rem;
+    padding: 2.5rem;
+    text-align: center;
+    border-radius: 3rem;
+}
+
+.normalBlock {
+    background-color: #28e457ec;
+    width: 10rem;
+    height: 10rem;
+    padding: 2.5rem;
+    border-radius: 3rem;
+    margin-left: 2rem;
+    text-align: center;
+}
+
+.tumbsM{
+    background-color: #4a4a4aec;
+    padding: 1rem;
+    border-radius: 3rem;
+}
+
+.tumbsN {
+    background-color: #01a20b;
+    padding: 1rem;
+    border-radius: 3rem;
+}
+
+.sobrepeso {
+    position: fixed;
+    top: 38%;
+    display: flex;
+    position: fixed;
+}
+
+.sobrepesoBlock {
+    background-color: #e7fc00e5;
+    width: 10rem;
+    height: 10rem;
+    padding: 2.5rem;
+    text-align: center;
+    border-radius: 3rem;
+}
+
+.tumbsS {
+    background-color: #abab03ed;
+    padding: 1rem;
+    border-radius: 3rem;
+}
+
+.obesidadeBlock {
+    background-color: #ef1800eb;
+    width: 10rem;
+    height: 10rem;
+    padding: 2.5rem;
+    border-radius: 3rem;
+    margin-left: 2rem;
+    text-align: center;
+}
+
+
+.tumbsO {
+    background-color: #901202;
+    padding: 1rem;
+    border-radius: 3rem;
+}
