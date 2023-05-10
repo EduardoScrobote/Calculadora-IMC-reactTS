@@ -88,3 +88,85 @@
     padding: 1rem;
     border-radius: 3rem;
 }
+
+
+.normalSquare {
+    margin-top: 14rem;
+    background-color: #28e457ec;
+    width: 20rem;
+    height: 20rem;
+    padding: 2.5rem;
+    border-radius: 3rem;
+    margin-left: 2rem;
+    text-align: center;
+}
+
+.tumbsNSquare {
+    background-color: #01a20b;
+    padding: 1rem;
+    border-radius: 3rem;
+    text-align: center;
+    margin-top: 25%;
+}
+
+.magrezaSquare {
+    margin-top: 14rem;
+    background-color: #4a4a4a78;
+    width: 20rem;
+    height: 20rem;
+    padding: 2.5rem;
+    border-radius: 3rem;
+    margin-left: 2rem;
+    text-align: center;
+}
+
+.tumbsMSquare {
+    background-color: #4a4a4aec;
+    padding: 1rem;
+    border-radius: 3rem;
+    text-align: center;
+    margin-top: 25%;
+}
+
+.obesidadeSquare {
+    margin-top: 14rem;
+    background-color: #ef1800eb;
+    width: 20rem;
+    height: 20rem;
+    padding: 2.5rem;
+    border-radius: 3rem;
+    margin-left: 2rem;
+    text-align: center;
+}
+
+.tumbsOSquare {
+    background-color: #901202;
+    padding: 1rem;
+    border-radius: 3rem;
+    text-align: center;
+    margin-top: 25%;
+}
+
+.sobrepesoSquare {
+    margin-top: 14rem;
+    background-color: #e7fc00e5;
+    width: 20rem;
+    height: 20rem;
+    padding: 2.5rem;
+    border-radius: 3rem;
+    margin-left: 2rem;
+    text-align: center;
+}
+
+.tumbsSSqaure {
+    background-color: #abab03ed;
+    padding: 1rem;
+    border-radius: 3rem;
+    text-align: center;
+    margin-top: 25%;
+}
+
+.squaresMain {
+    position: absolute;
+    left: 25rem;
+}
